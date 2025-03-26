@@ -1,0 +1,20 @@
+# Ignore build artifacts
+*.o
+*.out
+*.exe
+
+# Ignore compiled dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore generated files
+bin/
+build/
